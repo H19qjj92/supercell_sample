@@ -4,6 +4,8 @@ This is the source code for my "Virus" which is completely harmless but I though
 
 Use Bat to Exe Converter and convert the main file called "Player.bat" then embed all the other files.
 
+If you want to have your own audio or some other audio just replace the "super_cell.mp3" with your own audio and name it "super_cell.mp3" only change stuff if you know what you are doing!!
+
 Bat to exe Converter info:
 
 -----------------------------------------------------------
